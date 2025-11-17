@@ -1,0 +1,26 @@
+/* 投稿ページ（仮デザイン） */
+.mno-single {
+  background: #fff;
+  padding: 20px;
+  margin: 24px auto;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.mno-single__title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 16px;
+}
+.mno-single__thumb img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 16px;
+}
+.mno-single__content {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #333;
+}
